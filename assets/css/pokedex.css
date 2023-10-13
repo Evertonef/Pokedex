@@ -71,10 +71,10 @@
 
 .pokemon .number {
     color: #000;
-    opacity: 0.3;
+    opacity: 0.5;
     text-align: right;
     font-size: .625rem;
-    
+   
 }
 .pokemon .detail .abilities .ability{
     color: rgb(243, 9, 9);
@@ -143,10 +143,10 @@
     max-width: 100%;
     height: 70px;
     
-        
 }
 .pokemon .detail .Bola {
-    opacity: 0.5;      
+    opacity: 0.6;  
+    width: 38%;
 }
 .pagination {
     display: flex;
@@ -173,7 +173,6 @@
     left: 55%;
     position: absolute; 
 }
-
 
 
 
